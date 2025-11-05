@@ -48,6 +48,16 @@ Used Marvel Rivals colours reference
 
 <img src="images/example.png" width="900" >
 
+
+Here is the reference information from the Phase 1 and 2 where we set how the test will work and created the UML diagram. 
+
+
+<img src="images/rivals.png" width="500" >
+
+
+<img src="images/rivals.png" width="500" >
+
+
 This is an example of the GUI where the user can import a csv file,
 We can see the user loaded a hero season 1 file where the records has been passed through all the fields! 
 
