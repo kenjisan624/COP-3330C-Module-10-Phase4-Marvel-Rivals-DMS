@@ -55,6 +55,8 @@ Implemented interface HeroRepository that handled logic & database INSERT INTO a
 
 
 **Database.java** 
+
+
 Charge of the connections between database and GUI; safe opening and closing
 
 <img src="images/folder_icon.png" width="150" >
