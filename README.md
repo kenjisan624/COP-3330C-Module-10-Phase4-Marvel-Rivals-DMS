@@ -34,7 +34,7 @@ Where all the interface is programmed for the GUI!
 
 -> Prompt user to look for the .db file in his PC! 
 
-<img src="images/interface.png" width="500" >
+<img src="images/interface.png" width="700" >
 
 
 **JdbcHeroRepository.java**   
