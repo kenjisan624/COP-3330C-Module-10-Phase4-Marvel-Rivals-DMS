@@ -51,7 +51,7 @@ Implemented interface HeroRepository that handled logic & database INSERT INTO a
 - existsById
 
 
-<img src="images/uml.png" width="900" >
+<img src="images/uml2.png" width="900" >
 
 
 **Database.java** 
