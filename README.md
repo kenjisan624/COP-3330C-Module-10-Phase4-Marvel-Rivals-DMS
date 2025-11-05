@@ -22,7 +22,7 @@ src/main/java where we have:
 main 
 
 
-<img src="images/folder_icon (2).png" width="150" >
+<img src="images/folder_icon.png" width="150" >
 
 
 **HeroFunctionalities.java** 
@@ -36,11 +36,13 @@ Import and export management
 ui 
 
 
-<img src="images/folder_icon (2).png" width="150" >
+<img src="images/folder_icon.png" width="150" >
 
 
 **MainFrame.java** 
 Where all the interface is programmed for the GUI! 
+<img src="images/initial.png" width="500" >
+
 
 **GradientButtonUI.java** 
 Used Marvel Rivals colours reference 
@@ -52,10 +54,10 @@ Used Marvel Rivals colours reference
 Here is the reference information from the Phase 1 and 2 where we set how the test will work and created the UML diagram. 
 
 
-<img src="images/rivals.png" width="500" >
 
 
-<img src="images/rivals.png" width="500" >
+Also, it is this time included the heroes.db, no longer csv or text file! 
+<img src="images/sample data.png" width="700" >
 
 
 This is an example of the GUI where the user can import a csv file,
