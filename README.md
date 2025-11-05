@@ -21,7 +21,7 @@ src/main/java where we have:
 
 main 
 
-<img src="images/folder_icon.png" width="200" >
+<img src="images/folder_icon.png" width="250" >
 
 
 **MainFrame.java** 
