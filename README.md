@@ -25,7 +25,7 @@ main
 <img src="images/folder_icon.png" width="150" >
 
 
-**HeroFunctionalities.java** 
+**HeroFunctionalities.java**   
 handling logic & PDF creating
 
 
@@ -48,15 +48,15 @@ Where all the interface is programmed for the GUI!
 Used Marvel Rivals colours reference 
 
 
-<img src="images/example.png" width="900" >
+<img src="images/uml.png" width="900" >
 
 
 Here is the reference information from the Phase 1 and 2 where we set how the test will work and created the UML diagram. 
+<img src="images/Logic.png" width="900" >
 
 
-
-
-Also, it is this time included the heroes.db, no longer csv or text file! 
+**heroes.db** 
+This time we included the heroes.db for sample data, no longer csv or text file! 
 <img src="images/sample data.png" width="700" >
 
 
