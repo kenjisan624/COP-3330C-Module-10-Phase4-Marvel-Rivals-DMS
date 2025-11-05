@@ -21,14 +21,14 @@ src/main/java where we have:
 
 main 
 
-<img src="images/folder_icon.png" width="250" >
+<img src="images/folder_icon.png" width="150" >
 
 
 **MainFrame.java** 
 Where all the interface is programmed for the GUI! 
 
 
-<img src="images/Initial.png" width="300" >
+<img src="images/Initial.png" width="400" >
 
 
 
