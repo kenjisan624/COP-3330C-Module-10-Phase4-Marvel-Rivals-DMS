@@ -25,8 +25,12 @@ main
 
 
 **MainFrame.java** 
-Where all the interface is programmed for the GUI! || 
+Where all the interface is programmed for the GUI! 
+
+
 <img src="images/Initial.png" width="300" >
+
+
 
 -> Prompt user to look for the .db file in his PC! 
 
