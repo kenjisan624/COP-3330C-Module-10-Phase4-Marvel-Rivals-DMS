@@ -21,8 +21,14 @@ src/main/java where we have:
 
 main 
 
-
 <img src="images/folder_icon.png" width="150" >
+
+
+**MainFrame.java** 
+Where all the interface is programmed for the GUI! 
+<img src="images/Initial.png" width="250" >
+
+<img src="images/interface.png" width="500" >
 
 
 **HeroFunctionalities.java**   
@@ -39,9 +45,6 @@ ui
 <img src="images/folder_icon.png" width="150" >
 
 
-**MainFrame.java** 
-Where all the interface is programmed for the GUI! 
-<img src="images/initial.png" width="500" >
 
 
 **GradientButtonUI.java** 
