@@ -25,33 +25,36 @@ main
 
 
 **MainFrame.java** 
-Where all the interface is programmed for the GUI! 
-<img src="images/Initial.png" width="250" >
+Where all the interface is programmed for the GUI! || 
+<img src="images/Initial.png" width="300" >
+
+-> Prompt user to look for the .db file in his PC! 
 
 <img src="images/interface.png" width="500" >
 
 
-**HeroFunctionalities.java**   
-handling logic & PDF creating
-
-
-**FileHeroRepository.java** 
-Import and export management 
-
-
-ui 
-
+**JdbcHeroRepository.java**   
 
 <img src="images/folder_icon.png" width="150" >
 
 
-
-
-**GradientButtonUI.java** 
-Used Marvel Rivals colours reference 
+Implemented interface HeroRepository that handled logic & database INSERT INTO actions for:
+- save
+- findById
+- findAll
+- update
+- deleteById
+- existsById
 
 
 <img src="images/uml.png" width="900" >
+
+
+**Database.java** 
+Charge of the connections between database and GUI; safe opening and closing
+
+<img src="images/folder_icon.png" width="150" >
+
 
 
 Here is the reference information from the Phase 1 and 2 where we set how the test will work and created the UML diagram. 
@@ -59,6 +62,7 @@ Here is the reference information from the Phase 1 and 2 where we set how the te
 
 
 **heroes.db** 
+
 This time we included the heroes.db for sample data, no longer csv or text file! 
 <img src="images/sample data.png" width="700" >
 
